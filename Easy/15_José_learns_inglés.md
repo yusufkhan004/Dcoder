@@ -1,3 +1,5 @@
+# Python
+
 ```python
 N = int(input())
 
