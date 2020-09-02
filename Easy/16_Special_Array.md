@@ -8,4 +8,4 @@ if '0' in arr or isinstance(arr,float):
     print("No")
 else:
     print("Yes")
-        ```
+```
